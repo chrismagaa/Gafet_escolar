@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gafet escolar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="txt_compartir_imagen">Compartir imagen</string>
+    <string name="txt_compartir_pdf">Compartir pdf</string>
+    <string name="txt_imprimir">Imprimir</string>
+</resources>
